@@ -1,2 +1,1 @@
- my name is anuradha goya
- hi my name is anupiyushl
+ Hi this project has been created for weather app application
